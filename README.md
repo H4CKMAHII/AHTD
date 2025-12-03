@@ -10,6 +10,12 @@
 
 ---
 
+##  Screenshot of AHTD
+
+
+<p align="center">
+  <img src="AHTDSS.png" alt="AHTDSS Screenshot" width="600">
+</p>
 #  Installation
 
 ### **1. Clone the Repository**
@@ -137,7 +143,7 @@ Developed by **H4CKMAHII**
 
  Author
 
-Developed by **H4CKMAHII**
+Developed by **H4CKMAHII** (MAHESH)
 Advanced Cybersecurity Research Project
 
 ---
